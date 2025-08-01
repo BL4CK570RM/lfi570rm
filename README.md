@@ -30,9 +30,9 @@ An advanced Local File Inclusion (LFI) vulnerability scanner with multi-threadin
 ### ✅ Kali Linux / Debian-based Systems
 
 1. Install dependencies and clone the repository:
-```bash
+
 sudo apt update && sudo apt install -y git python3-pip
-git clone https://github.com/BCK570RM/lfi570rm.git
+git clone https://github.com/BL4CK570RM/lfi570rm
 cd lfi570rm
 ```
 
