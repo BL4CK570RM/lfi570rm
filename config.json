@@ -1,0 +1,6 @@
+{
+    "payload_sources": [
+        "https://raw.githubusercontent.com/your-username/your-repo/master/payloads/lfi1.txt",
+        "https://raw.githubusercontent.com/your-username/your-repo/master/payloads/lfi2.txt"
+    ]
+}
