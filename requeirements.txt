@@ -1,0 +1,28 @@
+# Core Requirements
+requests>=2.31.0
+colorama>=0.4.6
+urllib3>=2.0.4
+tqdm>=4.66.1  # Progress bars
+beautifulsoup4>=4.12.2  # HTML parsing
+
+# Security Enhancements
+pyOpenSSL>=23.2.0  # Better SSL handling
+cryptography>=41.0.3  # Encryption support
+
+# Optional (Comment if not needed)
+# Proxy support
+socksipy-bundle>=1.02
+PySocks>=1.7.1
+
+# Advanced Fuzzing
+python-whois>=0.8.0
+dnspython>=2.4.2
+
+# Output Formats
+pyyaml>=6.0.1  # YAML report output
+xmltodict>=0.13.0  # XML report output
+
+# Development (Testing/Linting)
+pytest>=7.4.0
+flake8>=6.1.0
+black>=23.9.1
