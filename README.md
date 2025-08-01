@@ -3,7 +3,6 @@ Here's the properly formatted markdown file with consistent syntax and proper co
 ```markdown
 # LFI570rm - Advanced LFI Vulnerability Scanner
 
-![LFI Scanner Banner](https://i.imgur.com/JKvQ8aP.png)
 
 An advanced Local File Inclusion (LFI) vulnerability scanner with multi-threading, automatic payload generation, and comprehensive detection capabilities.
 
